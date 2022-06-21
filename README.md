@@ -17,12 +17,16 @@ Create a program that has the following:
 Below is a sample run for the user entering 3 at the console:
     
 How many data points do you want to enter: 3
+
 Enter data point [1] : 10
         Test constructor (10)
+
 Enter data point [2] : 20
         Test constructor (20)
+
 Enter data point [3] : 30
         Test constructor (30)
+
 Displaying vector data
 =======================
 10
