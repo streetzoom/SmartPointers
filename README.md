@@ -12,7 +12,6 @@ Create a program that has the following:
    
 3. a function named display that expects a vector of shared_ptrs to Test object and displays the
    data in each Test object
-
     
 Below is a sample run for the user entering 3 at the console:
     
@@ -35,8 +34,11 @@ Displaying vector data
 =======================
 
 10
+
 20
+
 30
+
 =======================
 
         Test destructor (10)
